@@ -11,3 +11,12 @@ Sport Center Kampus - Reservasi Lapangan
 - Nama  : [ISI NAMA KAMU]
 - NIM   : [ISI NIM KAMU]
 - Kelas : [ISI KELAS KAMU]
+
+## Entitas Sistem
+- Member     : pengguna yang melakukan booking lapangan
+- Resepsionis: admin yang mengelola lapangan dan member
+- Lapangan   : objek yang bisa dipesan oleh member
+
+## Aturan Bisnis
+- Member tidak bisa booking jika jadwal lapangan sudah penuh
+- Booking hanya sah jika saldo Member mencukupi harga sewa
