@@ -20,3 +20,8 @@ Sport Center Kampus - Reservasi Lapangan
 ## Aturan Bisnis
 - Member tidak bisa booking jika jadwal lapangan sudah penuh
 - Booking hanya sah jika saldo Member mencukupi harga sewa
+
+## Status Pengerjaan
+- [x] Tahap 1: Analisis SDLC & GitHub Repository
+- [ ] Tahap 2: Use Case Diagram & Class Diagram
+- [ ] Tahap 3: Implementasi Kotlin
